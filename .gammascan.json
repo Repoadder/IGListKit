@@ -1,0 +1,23 @@
+{
+	"gammaAccess": {
+		"url": "http://192.168.2.11:3000",
+		"userName": "chandrashekhar.bhosale@acellere.com",
+		"password": "admin1234"
+	},
+	"repositories": [{
+		"repository": {
+			"uid": "caebe6b5f2abee79fab219fa920dc694",
+			"projectName": "RJ_IGListKit_ObjC",
+			"sources": {
+				"baseDir": "$WORKSPACE"
+			}
+		},
+		"dataDir": "/opt/gamma/gamma_data",
+		"modules": {
+			"codeissues": [
+					{
+					"name": "gamma_cxx"
+					}]
+		}
+	}]
+}
